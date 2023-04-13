@@ -1,0 +1,98 @@
+Operators:-
+----
+
+1. Assignment operator (=)
+
+2. Arithmetical operator (+, -, *, /, %)
+
+3. Logical Operator (AND(&&), OR(||), (!))
+
+4. Relational Operator or Conditional Operator (>, <, >=, <=, ==, !=)
+
+5. Shorthand Operator (+=, -=, *=, /=, %=)
+
+6. Incremental & Decremental Operator
+
+	Post Incremetal & Post Decremental
+	Pre Incremental & Pre Decremental
+
+AND - Binary Mutltipication
+
+X   		Y   		O/P
+True		True		True
+True		False		False
+False		True		False
+False		False		False
+
+1         1          1
+1         0			0
+0		1			0
+0		0			0
+
+
+OR - Binary Addition
+
+True 		True		True
+True		False		True
+False		True		True
+False		False		False
+
+
+NOT - Binary Inversion
+
+True		False
+False		True
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ vs % 
+
+/ Quotent
+
+% Remainder
+
+10 / 2 = 5
+
+10 % 2 = 0
+
+11 / 2 = 5
+
+11 % 2 = 1
+
+Numerator < Denomitor
+
+2 / 5 = 0
+
+2 % 5 = 2
+
+
+
+Operands , Operator
+
+int a =  10;
+
+int b = 20;
+
+int - Data type
+a, b -  Variable
+= Assignment operator
+10,20 - Data
+
